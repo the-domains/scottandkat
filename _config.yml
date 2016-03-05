@@ -2,6 +2,7 @@ name: ScottAndKat
 favicon: null
 layout_spectrum: 0.83365
 typography_spectrum: 0.21048923977650702
+title: 'Scott & Kat'
 cta:
   domain: null
   bucket: null
