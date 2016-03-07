@@ -1,6 +1,6 @@
 name: Scott and Kat
 favicon: null
-layout_spectrum: 0.8653
+layout_spectrum: 0.25125
 typography_spectrum: 0.41013
 title: 'Scott & Kat'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#b58d6e'
+    - '#754e39'
+    - '#396496'
+    - '#b1b7ba'
   brandStrength: 0
   lightness: 0.75
   saturation: 0.1875
