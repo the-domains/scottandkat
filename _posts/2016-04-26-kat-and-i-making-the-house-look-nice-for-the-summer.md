@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Kat making the house look nice for the summer!'
-datePublished: '2016-04-26T15:17:09.398Z'
-dateModified: '2016-04-26T15:14:58.362Z'
+description: Basil and tomatoes
+datePublished: '2016-04-26T15:21:07.695Z'
+dateModified: '2016-04-26T15:20:55.412Z'
 title: ''
 author:
   - name: ''
@@ -24,7 +24,6 @@ url: kat-and-i-making-the-house-look-nice-for-the-summer/index.html
 _type: Article
 
 ---
-Kat making the house look nice for the summer!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/481dd103-8c82-4ebf-a6fe-663a6547a7ae.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d283ddc6-cd17-4fbc-a9bc-d812cebc5aac.jpg)
 
