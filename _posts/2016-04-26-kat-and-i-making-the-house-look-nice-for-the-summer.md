@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Kat making the house look nice for the summer!'
-datePublished: '2016-04-26T15:14:53.206Z'
-dateModified: '2016-04-26T15:14:29.847Z'
+datePublished: '2016-04-26T15:17:09.398Z'
+dateModified: '2016-04-26T15:14:58.362Z'
 title: ''
 author:
   - name: ''
